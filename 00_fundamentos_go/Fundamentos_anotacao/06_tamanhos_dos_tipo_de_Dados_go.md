@@ -29,8 +29,8 @@
 <p>
    int8 e diferente do uint8 por um e assinado e outro não, por exemplo :
 
-    - com exemplo abaixo unit e valor não assinado
-    - e não podemos atribuir valores negativos
+  - com exemplo abaixo unit e valor não assinado
+  - e não podemos atribuir valores negativos
 
 
     ```
