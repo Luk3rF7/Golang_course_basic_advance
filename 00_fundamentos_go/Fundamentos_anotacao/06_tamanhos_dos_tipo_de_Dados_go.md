@@ -4,7 +4,7 @@
   Os tipo de inteiro ,em qualquer lang vai ter um tamanho maximo que podemos atribuir, onde execmplo so e permitido colocar 127
 </p>
 
-## Tipos de tamanho
+## Tipos de tamanho:
 
 <li> int8    8bit-signed integer
 <li> int16   16-bit signed integer 
