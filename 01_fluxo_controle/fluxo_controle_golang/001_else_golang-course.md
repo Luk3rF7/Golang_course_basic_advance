@@ -40,7 +40,8 @@ else {
 
 ```
 func main(){
-  salario := 1000.00
+
+  salario := 1000.00J
 
   if salario < 1000.00 {
      salario = salario - (salario * 0.08)
@@ -49,5 +50,6 @@ func main(){
   }else {
     salario = salario - ( salario * 0.15)
   }
+
 }
 ```
